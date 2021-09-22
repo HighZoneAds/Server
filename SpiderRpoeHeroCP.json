@@ -1,8 +1,15 @@
 {
   "Ad_Priority" : "1",
-  "Custom_Ad_Download_link" : [ "com.superhero.fighting.games.Real.Boxing", "com.Game.io.OffroadJeepParking", "com.arashi.ninja.shadow.fight.samurai.assassin" ],
-  "Custom_Ad_Icons_URL" : [ "https://lh3.googleusercontent.com/A3o8wvAHJomu95eqiZWWDi8F6xfsXUalp-ce_r6lsUsFWqSpxCYpD181C4X4bbUUadMJ", "https://play-lh.googleusercontent.com/9J1qGI6Rpi2E_mrSCzlmetl9iCx8FmMIiSk1u_151_PenOEAhSD2FS2sBkwpnauKaXI6=s180", "https://play-lh.googleusercontent.com/lHB3eLv4Fd8QhLz9nuiEbIlI-uzeguxZv2H3kaMhZ1-M6FJ-DwAUqXe0YTzQbwJ7Sw=s180" ],
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/SkskCxS-ZSjIJf22UvNPceQfxpAd--dOKGg6TKymZtLFVkQ-3kZmq6iwpxIIPUdx9rs=w720-h310", "https://play-lh.googleusercontent.com/eMblEIqGj978qHGqmjT_tc4lj-DmcOiWbqCF2ab_p0fNQbCJ_HRARUXVO97SfdXi0SM=w720-h310", "https://play-lh.googleusercontent.com/Dr0TNTfrAbupsuQlZSxk7RiT82sEVtsHKCa6RQqxEAFKgNBF0hNvDz9q2Dz5urDLqw=w1536-h722" ],
+  "Custom_Ad_Download_link" : [ "com.Game.io.MegaRampCarRacing", 
+                               "com.Game.io.MegaRampCarRacing", 
+                               "com.Game.io.MegaRampCarRacing" ],
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/C75_-QAatKzizHT5aYJ2vvvduhfGpD2gTvz3w_jvkdA5fDDSXkokFrQQZa1IffhfKfI=s180", 
+                           "https://play-lh.googleusercontent.com/C75_-QAatKzizHT5aYJ2vvvduhfGpD2gTvz3w_jvkdA5fDDSXkokFrQQZa1IffhfKfI=s180", 
+                           "https://play-lh.googleusercontent.com/C75_-QAatKzizHT5aYJ2vvvduhfGpD2gTvz3w_jvkdA5fDDSXkokFrQQZa1IffhfKfI=s180" ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h969", 
+                                 "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h969", 
+                                 "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h969" ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
 }
