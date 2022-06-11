@@ -1,0 +1,24 @@
+{
+  "Ad_Priority" : "1",
+  "Custom_Ad_Download_link" : [ "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter", 
+                               "com.fgs.real.cruise.ship.driving.simulator.games", 
+                               "com.fgs.ramp.car.stunt.car.racing.games",
+                               "com.fgs.real.cruise.ship.driving.simulator.games",
+                               "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter"
+                              ],
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/N1abVHedhJgjaZM9KvJPgx0yzrlmtxkDMdgT4Zg0LXxATXQTCllPTlopzosA8V-9OQ=s180", 
+                           "https://play-lh.googleusercontent.com/e9UzIQbZgC7F_7pK6SjG_dcAwLGkUklKvq2WqyEbiAxQp5gqzIbZdG4bCT9HEaX1PA", 
+                           "https://play-lh.googleusercontent.com/n5WKcHAvGuDZHXRmVNdfkl1CUdAzL8tPwGDJp9gRU4dEuniOGxXrpZ-ZAdKQpCpJ_w=s180",
+                          "https://play-lh.googleusercontent.com/GEwNMggSsS0GmQgwhDKf9ZEnHfLcSFeAomKIpo3Go7Ast5mn2F_NEMMYPKqhwMjkRwha=s360",
+                           "https://play-lh.googleusercontent.com/kdI3xjnNn32W8j8rWQEi0bQenUTcL62_jfOp6XpmQTs0O1Nri9eU6DMcep5fFsUf4Q=s180"
+                          ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/lolAdcrejU1zC6pq8FFpGRh9S_Z-IO4yOT7OghCHBcHvNS9Li7cqavdyis32f-hAbFk=w1920-h937", 
+                                 "https://play-lh.googleusercontent.com/atEGWNps3NqFdYZCI0wUYrU8h3O2FGZ7T--3BpwkBXr_E6hihWbSmBpzogOasBGSMw=w2880-h1380", 
+                                 "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h937" ,
+                                "https://play-lh.googleusercontent.com/zWcyIFSI84eOoJkCMIrLouHC0idvGiRZTuMY7C15LKkPq12NeScW5tCDywggqhT9vHI=w2880-h1380",
+                                "https://play-lh.googleusercontent.com/lolAdcrejU1zC6pq8FFpGRh9S_Z-IO4yOT7OghCHBcHvNS9Li7cqavdyis32f-hAbFk=w1920-h937"
+                                ],
+  "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
+  "Start_Showing_Ads" : true
+}
