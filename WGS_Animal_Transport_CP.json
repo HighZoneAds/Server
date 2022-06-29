@@ -1,0 +1,24 @@
+{
+  "Ad_Priority" : "1",
+  "Custom_Ad_Download_link" : [ "com.game.genie.ultimate.real.boxing.game.fighting.games", 
+                               "com.game.genie.ultimate.real.boxing.game.fighting.games", 
+                               "com.fgs.ramp.car.stunt.car.racing.games",
+                               "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter",
+                               "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter"
+                              ],
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/AYwTnEm6dEz76empu0Az4AlLkmZTLMlf2pAgN4LGpBbJK8fCDfzQ_1PbPhCrGjXNo4Tk", 
+                           "https://play-lh.googleusercontent.com/8VARSA2EpyC7IxP30hFnz-FIGO8vhAKWUSKpQAEDtshoEYYY-cmrRBcYo1LmClSgYr8", 
+                           "https://play-lh.googleusercontent.com/n5WKcHAvGuDZHXRmVNdfkl1CUdAzL8tPwGDJp9gRU4dEuniOGxXrpZ-ZAdKQpCpJ_w=s180",
+                          "https://play-lh.googleusercontent.com/ro5UA0230crTJ91-GLZYnyWHQqbLI5ZmebsZLvZtREN7MQ_Vt0DjuHYjQUppSHjiqO9v=s180",
+                           "https://play-lh.googleusercontent.com/kdI3xjnNn32W8j8rWQEi0bQenUTcL62_jfOp6XpmQTs0O1Nri9eU6DMcep5fFsUf4Q=s180"
+                          ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/8vZjNajFpkbalHWLl-ynj11GGXfwekXY4ECsrz9FdOjz6X4w1Hs6LWyfwTsOzb2HtPc=w2560-h1440", 
+                                 "https://play-lh.googleusercontent.com/fswygYa-4LLXNpRVDwX2APpGx80Hybcp4SSfccwrStWoJiP1wonWsmITMi2tLfcGWQ=w2560-h1440", 
+                                 "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h937" ,
+                                "https://play-lh.googleusercontent.com/i0H30pCds1Y2YYgsXWeojQL4yumbYdnJZEYtQytAesTgsXOVd4c3UGOsrTfo_5IetA=w720-h310",
+                                "https://play-lh.googleusercontent.com/lolAdcrejU1zC6pq8FFpGRh9S_Z-IO4yOT7OghCHBcHvNS9Li7cqavdyis32f-hAbFk=w1920-h937"
+                                ],
+  "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
+  "Start_Showing_Ads" : false
+}
