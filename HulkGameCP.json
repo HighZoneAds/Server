@@ -5,6 +5,11 @@
                                "com.alpha.spider.rope.hero.man.games",
                               "com.alpha.spider.rope.hero.man.games", 
                                "com.alpha.spider.rope.hero.man.games"],
+    "Custom_Icon_Ad_Download_link" : [ "com.alpha.spider.rope.hero.man.games", 
+                               "om.alpha.spider.rope.hero.man.games", 
+                               "com.highzone.impossible.monster.truck.mega.ramps.ultimate.races",
+                              "com.alpha.spider.rope.hero.man.games", 
+                               "com.alpha.spider.rope.hero.man.games"],
   "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/mU_To0YQyMQqXRsrE38BNVSUBADcWPCFLauJ0fslkFuovxtH77jWt8gpK9JsQIT5zA=s180", 
                            "https://play-lh.googleusercontent.com/VsdXMbRBW047n_AoXsvA4oXJ4GwoExZRQz_YtQbnNTPNYFo66aeF_GHAKF503Mk-YNI=s180", 
                            "https://play-lh.googleusercontent.com/dzNZ9VCGmGNnJ9vof1pTR_DZx4bWvc2mA3K7VH16LeCfiW1Hw_03m_qUrsJvcn9mxZw=s180",
@@ -17,5 +22,5 @@
                                  "https://play-lh.googleusercontent.com/s7C31HIs_zmUVeuxMedN3L-TO0PCcYVbsIeLw45cxnXzMLbY3rQLS2P693L8nzM7zNZN=w1920-h937", 
                                  "https://play-lh.googleusercontent.com/tpAvJHeHahS6Uv6pUAlwE7UAFkUaJr2BSUwsBjhNyl89vA019KItiCyyqEjnPB1spos=w1920-h937"],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
-  "Start_Showing_Ads" : true
+  "Start_Showing_Ads" : false
 }
