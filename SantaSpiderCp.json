@@ -6,16 +6,17 @@
                                "com.epic.simulator.games.multi.limo.robot.transformation.games",
                                "com.incredible.hulk.green.monster.superhero.games"
                               ],
-    "Custom_Icon_Ad_Download_link" : [ "com.alpha.spider.rope.hero.man.games", 
-                               "com.fgs.formula.car.stunts.track.racing.games", 
-                               "com.alpha.spider.rope.hero.man.games",
-                              "com.epic.simulator.games.multi.limo.robot.transformation.games", 
-                               "com.incredible.hulk.green.monster.superhero.games"],
-  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/-vN6yvM7XMrnPRThUYaB11vvdSg-2uIB1pmRTuAj7B0ulMFwK5zl0Memxxc-T0ac9Q=s180", 
-                           "https://play-lh.googleusercontent.com/3uu5RqPyMoXipBYR9tGvhplEgAIzkYkU97_FzwrJJFHkZYNve1H-_FSdgbs3Cv4ubw=s180", 
-                           "https://play-lh.googleusercontent.com/dzNZ9VCGmGNnJ9vof1pTR_DZx4bWvc2mA3K7VH16LeCfiW1Hw_03m_qUrsJvcn9mxZw=s180",
-                          "https://play-lh.googleusercontent.com/Ot7ijny9OGGdBsPZSWLYFp1BP1IC2Vnm0q22oVqmuXN1F4mef2PD451FmE5hJUDe1hQ=s180",
-                           "https://play-lh.googleusercontent.com/Yuu4VN9hDzd6ZBFc4eVsQS9GdQ5a_GTfXex6ywQY_F-UrZz6Dfh2z4OdsVvatPjIYw=s180"
+    "Custom_Icon_Ad_Download_link" : [ "com.fgs.formula.car.stunts.track.racing.games", 
+                               "com.game.genie.ultimate.real.boxing.game.fighting.games", 
+                               "com.game.genie.iron.rope.hero.superhero.crime.battle.city",
+                              "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter", 
+                               "com.fgs.city.coach.bus.simulator.bus.driving.games"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/3uu5RqPyMoXipBYR9tGvhplEgAIzkYkU97_FzwrJJFHkZYNve1H-_FSdgbs3Cv4ubw=w240-h480", 
+                           "https://play-lh.googleusercontent.com/UAjciPdbwpNggzuJ_Wm3kcrl1CiuVoeJadDjUZfk_F-ukCWX3REaP3Nk4N0Bz0kB2GF7=w240-h480", 
+                           "https://play-lh.googleusercontent.com/nM3X1JwsM1Jq0IpgzoVp2yWPYdo-2f4NFDTxKf5jHM5aAm0s15lmEp1nuIo4V0no9ypG=w240-h480",
+                          "https://play-lh.googleusercontent.com/vqDx3RwtBBy81Rb1Og47OesCiUBkt1zj6wCXuVQ7198-_c1rLBHZJWBc0HVTCQojBErM=w240-h480",
+                           "https://play-lh.googleusercontent.com/mHznQNykVsIjzW2Wnly5SKkGYIfeYkufzJWo0T_h03k1O7BYGp5MDXUR8UOPzKfLJIM=s180"
                           ],
   
   "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/s7C31HIs_zmUVeuxMedN3L-TO0PCcYVbsIeLw45cxnXzMLbY3rQLS2P693L8nzM7zNZN=w1920-h937", 
