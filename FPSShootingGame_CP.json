@@ -6,6 +6,12 @@
                               "com.epicsimulator.superhero.tricky.bike.stunts", 
                                "com.epicsimulator.superhero.tricky.bike.stunts"],
   
+    "Custom_Icon_Ad_Download_link" : [ "com.fgs.city.coach.bus.simulator.bus.driving.games", 
+                               "com.fgs.city.coach.bus.simulator.bus.driving.games", 
+                               "com.cyborg.impossible.car.stunts.mega.ramps.ultimate.races",
+                              "com.epicsimulator.superhero.tricky.bike.stunts", 
+                               "com.epicsimulator.superhero.tricky.bike.stunts"],
+  
   "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/OkdHROfua-NCEFg0ftwfmGU6TZfNqTZfIDW9WCZ3VfkoC8AXWncMu76CAw0NOLWZtmwP=w240-h480", 
                            "https://play-lh.googleusercontent.com/LNzg63OZ4wGU-JJAQTa9j0iq1uIL7zojnERktksweD3XbmsSi4PSCA8K9MohaZxlKBg=w240-h480", 
                            "https://play-lh.googleusercontent.com/n5WKcHAvGuDZHXRmVNdfkl1CUdAzL8tPwGDJp9gRU4dEuniOGxXrpZ-ZAdKQpCpJ_w=s180",
