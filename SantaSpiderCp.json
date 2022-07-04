@@ -6,6 +6,11 @@
                                "com.epic.simulator.games.multi.limo.robot.transformation.games",
                                "com.incredible.hulk.green.monster.superhero.games"
                               ],
+    "Custom_Icon_Ad_Download_link" : [ "com.alpha.spider.rope.hero.man.games", 
+                               "com.fgs.formula.car.stunts.track.racing.games", 
+                               "com.alpha.spider.rope.hero.man.games",
+                              "com.epic.simulator.games.multi.limo.robot.transformation.games", 
+                               "com.incredible.hulk.green.monster.superhero.games"],
   "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/-vN6yvM7XMrnPRThUYaB11vvdSg-2uIB1pmRTuAj7B0ulMFwK5zl0Memxxc-T0ac9Q=s180", 
                            "https://play-lh.googleusercontent.com/3uu5RqPyMoXipBYR9tGvhplEgAIzkYkU97_FzwrJJFHkZYNve1H-_FSdgbs3Cv4ubw=s180", 
                            "https://play-lh.googleusercontent.com/dzNZ9VCGmGNnJ9vof1pTR_DZx4bWvc2mA3K7VH16LeCfiW1Hw_03m_qUrsJvcn9mxZw=s180",
