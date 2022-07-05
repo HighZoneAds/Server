@@ -6,6 +6,12 @@
                               "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
                                "com.alpha.spider.rope.hero.man.games"],
   
+    "Custom_Icon_Ad_Download_link" : [ "com.incredible.hulk.green.monster.superhero.games", 
+                               "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.alpha.spider.rope.hero.man.games",
+                              "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.alpha.spider.rope.hero.man.games"],
+  
   "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/asJvMYQP5xRb-tKA5YGdgvJWNZYpvuXLaog3rmSZsviIr17ge041R2JHluynoKJg0Q=s180", 
                            "https://play-lh.googleusercontent.com/sqPNeUfkAS6WAjKe8WzNHYFOOtGtD_wMIOHmcyykTDenLriv6eZrFvWBTDznOi3-LiI", 
                            "https://play-lh.googleusercontent.com/-vN6yvM7XMrnPRThUYaB11vvdSg-2uIB1pmRTuAj7B0ulMFwK5zl0Memxxc-T0ac9Q=s180",
@@ -19,5 +25,5 @@
                                  "https://play-lh.googleusercontent.com/s6Mfxzj3XOowJQ-HNOjvomTnHJBGo5uxWtt28zYYgqkTTshUo-ex_zM44rmclRMgWb8=w1920-h937"],
   
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
-  "Start_Showing_Ads" : true
+  "Start_Showing_Ads" : false
 }
