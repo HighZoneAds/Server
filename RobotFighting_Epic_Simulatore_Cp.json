@@ -6,6 +6,12 @@
                               "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
                                "com.cyborg.impossible.car.stunts.mega.ramps.ultimate.races"],
   
+    "Custom_Icon_Ad_Download_link" : [ "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.fgs.formula.car.stunts.track.racing.games", 
+                               "com.fgs.ramp.car.stunt.car.racing.games",
+                              "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.cyborg.impossible.car.stunts.mega.ramps.ultimate.races"],
+  
   "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/jhLqwkXMNjRmRc9uAbqTyMtpWzsSoY614FF9egfz2Th9A2tqxUzhwSB2LYCsAmiSRg=s180", 
                            "https://play-lh.googleusercontent.com/3uu5RqPyMoXipBYR9tGvhplEgAIzkYkU97_FzwrJJFHkZYNve1H-_FSdgbs3Cv4ubw=s360", 
                            "https://play-lh.googleusercontent.com/Ftn3yqfZQHAvvjL8Voo-7bkonbv2aoJk7_p4n9kogy4wyGZQYswkI29zX-JVL95dB8c=s360",
@@ -19,5 +25,5 @@
                                  "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h937"],
   
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
-  "Start_Showing_Ads" : true
+  "Start_Showing_Ads" : false
 }
