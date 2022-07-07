@@ -5,6 +5,12 @@
                                "com.epicsimulator.superhero.tricky.bike.stunts",
                               "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
                                "com.epicsimulator.superhero.tricky.bike.stunts"],
+    
+  "Custom_Icon_Ad_Download_link" : [ "com.game.genie.ultimate.real.boxing.game.fighting.games", 
+                               "com.game.genie.ultimate.real.boxing.game.fighting.games", 
+                               "com.epicsimulator.superhero.tricky.bike.stunts",
+                              "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.epicsimulator.superhero.tricky.bike.stunts"],
   
   "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/AYwTnEm6dEz76empu0Az4AlLkmZTLMlf2pAgN4LGpBbJK8fCDfzQ_1PbPhCrGjXNo4Tk", 
                            "https://play-lh.googleusercontent.com/8VARSA2EpyC7IxP30hFnz-FIGO8vhAKWUSKpQAEDtshoEYYY-cmrRBcYo1LmClSgYr8", 
@@ -19,5 +25,5 @@
                                  "https://img.youtube.com/vi/NUDiof3zsNA/maxresdefault.jpg"],
   
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
-  "Start_Showing_Ads" : true
+  "Start_Showing_Ads" : false
 }
