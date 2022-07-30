@@ -1,23 +1,23 @@
 {
   "Ad_Priority" : "1",
-  "Custom_Ad_Download_link" : [ "com.incredible.hulk.green.monster.superhero.games", 
-                               "com.fgs.formula.car.stunts.track.racing.games", 
-                               "com.fgs.ramp.car.stunt.car.racing.games",
-                               "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter",
-                               "com.incredible.hulk.green.monster.superhero.games"
+  "Custom_Ad_Download_link" : [ "com.fgs.formula.car.stunts.track.racing.games", 
+                               "com.fgs.ramp.car.stunt.car.racing.games", 
+                               "com.fgs.city.coach.bus.simulator.bus.driving.games",
+                               "com.fgs.formula.car.stunts.track.racing.games",
+                               "com.fgs.ramp.car.stunt.car.racing.games"
                               ],
-  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/Ot7ijny9OGGdBsPZSWLYFp1BP1IC2Vnm0q22oVqmuXN1F4mef2PD451FmE5hJUDe1hQ=s180", 
-                           "https://play-lh.googleusercontent.com/3uu5RqPyMoXipBYR9tGvhplEgAIzkYkU97_FzwrJJFHkZYNve1H-_FSdgbs3Cv4ubw=s180", 
-                           "https://play-lh.googleusercontent.com/n5WKcHAvGuDZHXRmVNdfkl1CUdAzL8tPwGDJp9gRU4dEuniOGxXrpZ-ZAdKQpCpJ_w=s180",
-                          "https://play-lh.googleusercontent.com/ro5UA0230crTJ91-GLZYnyWHQqbLI5ZmebsZLvZtREN7MQ_Vt0DjuHYjQUppSHjiqO9v=s180",
-                           "https://play-lh.googleusercontent.com/Yuu4VN9hDzd6ZBFc4eVsQS9GdQ5a_GTfXex6ywQY_F-UrZz6Dfh2z4OdsVvatPjIYw=s180"
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/G1uzA-JL5T-4Dl7V-p9l0jda2EP8AXR1QQdT-GGZOQaizy5-Q5wbf1ycpv6sAbUndw=w240-h480", 
+                           "https://play-lh.googleusercontent.com/XmcpB-q4fqdDMgQhb7ivM-IvUxr9FmzzO_QDmIjw9IRNWJlL_ommGKCIyS_Yt__uqkqD=w240-h480", 
+                           "https://play-lh.googleusercontent.com/-IGisWLtLRUktGZyXp86EcQZFnIMpUc3zeKg-4yklB_3N1fn2eVnT0sEi1Xs03UyeMc",
+                          "https://play-lh.googleusercontent.com/rcnIcQW8SXljLQ1xDwlYg-SeM0RdcGcB5Mo0kEOotDr7HhxGLBuri8H4PLCJtMvseCA=w240-h480",
+                           "https://play-lh.googleusercontent.com/AdTOIdszlAJTQ9CB6KteAq9DeisbFWzOw5Mp6wj5LhHR9ucCcRBXoVjxtUn1EtmPOviG=w240-h480"
                           ],
   
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/eBMl__gQ4cMSt9CAk9YWjBv85GqsoNXn2x_pKZ_3fNJZNy5QWMNXQTRZ8zU4KlnTC6E=w1920-h937", 
-                                 "https://play-lh.googleusercontent.com/lh1IHNBfS2QmkHfJKcQtCzEVWVETsu4TKdFALkJ7vbX8ZNJRB2lIkW2Hp1-Uyw7IpUo=w1920-h937", 
-                                 "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h937" ,
-                                "https://play-lh.googleusercontent.com/i0H30pCds1Y2YYgsXWeojQL4yumbYdnJZEYtQytAesTgsXOVd4c3UGOsrTfo_5IetA=w720-h310",
-                                "https://play-lh.googleusercontent.com/42zA3vJLQ2dOsRDswvKa9IYOzELlAmZQ1_GYO9L1Zlick_NsEuTWfrSTNArpiJ_Z_bQ=w720-h310"
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/NGvJINsiX4uHb2Cs2vhGUIpzusGjtlShmgccvqNNoUhbt4HzmIUiHB0raVONnb5m-yA=w2560-h1440", 
+                                 "https://play-lh.googleusercontent.com/AV2xzftbUjb_KvmOFEU6MDuyPH1CfTU8eCVm7NHNLm5rrN7vo-miPYlrtCEimF5Yhjs=w2560-h1440", 
+                                 "https://play-lh.googleusercontent.com/RHqFyuNDzJO-DNetiM34yj0VidJEXJrSPeEJ-ai8gnJiqI4z1h9ghKUBveJfdtfegvk=w2560-h1440" ,
+                                "https://play-lh.googleusercontent.com/PqYba6gKGzKXlrPNw0IAiIqqHtIFtzU0jgMPfgXCeCsD31KB0qvhRscEeJ87xqoF5pg=w2560-h1440",
+                                "https://play-lh.googleusercontent.com/pd7nzfr4u2SqxpEGPWzJ1NRiskBuoY4aOO9pvETkuILajeSvUhniiT57ltkmlefnQg=w2560-h1440"
                                 ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
