@@ -6,12 +6,17 @@
                                "com.fgs.formula.car.stunts.track.racing.games",
                                "com.fgs.real.cruise.ship.driving.simulator.games"
                               ],
-  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/G1uzA-JL5T-4Dl7V-p9l0jda2EP8AXR1QQdT-GGZOQaizy5-Q5wbf1ycpv6sAbUndw=w240-h480", 
-                           "https://play-lh.googleusercontent.com/e9UzIQbZgC7F_7pK6SjG_dcAwLGkUklKvq2WqyEbiAxQp5gqzIbZdG4bCT9HEaX1PA=w240-h480", 
-                           "https://play-lh.googleusercontent.com/-IGisWLtLRUktGZyXp86EcQZFnIMpUc3zeKg-4yklB_3N1fn2eVnT0sEi1Xs03UyeMc",
-                          "https://play-lh.googleusercontent.com/rcnIcQW8SXljLQ1xDwlYg-SeM0RdcGcB5Mo0kEOotDr7HhxGLBuri8H4PLCJtMvseCA=w240-h480",
-                           "https://play-lh.googleusercontent.com/zs0TX0OZnz5ZqwxuB9848bUnCky0vTdOiC_a9NL_B3FMkQyRYKj5tPRVh_yA8P4aEvE"
-                          ],
+    "Custom_Icon_Ad_Download_link" : [ "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.alpha.spider.rope.hero.man.games", 
+                               "com.incredible.hulk.green.monster.superhero.games",
+                              "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.alpha.spider.rope.hero.man.games"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/jhLqwkXMNjRmRc9uAbqTyMtpWzsSoY614FF9egfz2Th9A2tqxUzhwSB2LYCsAmiSRg=s180", 
+                           "https://play-lh.googleusercontent.com/mU_To0YQyMQqXRsrE38BNVSUBADcWPCFLauJ0fslkFuovxtH77jWt8gpK9JsQIT5zA=s360", 
+                           "https://play-lh.googleusercontent.com/tUHy6FeF6UrZjwfFpB2kOXWiXiFpUTsLEBHhDDwDLfhdG6pkmMpd2mGZTn23tOQZYMo=s360",
+                           "https://play-lh.googleusercontent.com/27KVVNpIUK9JbBJHEn_h3NNuzEMqe7Tlc8ehhZvkEyl-iz0FLTBomhFJEDndZrfTjA=s360", 
+                           "https://play-lh.googleusercontent.com/gWyiaLkWgtHtGZ9I0ilyfZqU52Yd3BVYJ7RQt19nWqElh22C5dXW5B126fGy-IXchEc=s360" ],
   
   "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/NGvJINsiX4uHb2Cs2vhGUIpzusGjtlShmgccvqNNoUhbt4HzmIUiHB0raVONnb5m-yA=w2560-h1440", 
                                  "https://play-lh.googleusercontent.com/atEGWNps3NqFdYZCI0wUYrU8h3O2FGZ7T--3BpwkBXr_E6hihWbSmBpzogOasBGSMw=w2560-h1440", 
