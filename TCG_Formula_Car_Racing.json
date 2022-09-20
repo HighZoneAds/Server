@@ -1,0 +1,29 @@
+{
+  "Ad_Priority" : "0",
+  "Custom_Ad_Download_link" : [ "com.tcg.rope.hero.city.gangster.games.vegas.crime.simulator", 
+                               "com.alpha.spider.rope.hero.man.games", 
+                               "com.incredible.hulk.green.monster.superhero.games",
+                              "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.alpha.spider.rope.hero.man.games"],
+  
+    "Custom_Icon_Ad_Download_link" : [ "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.alpha.spider.rope.hero.man.games", 
+                               "com.incredible.hulk.green.monster.superhero.games",
+                              "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
+                               "com.alpha.spider.rope.hero.man.games"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/jhLqwkXMNjRmRc9uAbqTyMtpWzsSoY614FF9egfz2Th9A2tqxUzhwSB2LYCsAmiSRg=s180", 
+                           "https://play-lh.googleusercontent.com/mU_To0YQyMQqXRsrE38BNVSUBADcWPCFLauJ0fslkFuovxtH77jWt8gpK9JsQIT5zA=s360", 
+                           "https://play-lh.googleusercontent.com/tUHy6FeF6UrZjwfFpB2kOXWiXiFpUTsLEBHhDDwDLfhdG6pkmMpd2mGZTn23tOQZYMo=s360",
+                           "https://play-lh.googleusercontent.com/27KVVNpIUK9JbBJHEn_h3NNuzEMqe7Tlc8ehhZvkEyl-iz0FLTBomhFJEDndZrfTjA=s360", 
+                           "https://play-lh.googleusercontent.com/gWyiaLkWgtHtGZ9I0ilyfZqU52Yd3BVYJ7RQt19nWqElh22C5dXW5B126fGy-IXchEc=s360" ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/XAWm59DWcq2m87gnKtYM2R5jwHnnQeuVzeS3zNywYugsn6gTw3FOGHwZTj3fjlLsbmA=w2560-h1440", 
+                                 "https://play-lh.googleusercontent.com/s7C31HIs_zmUVeuxMedN3L-TO0PCcYVbsIeLw45cxnXzMLbY3rQLS2P693L8nzM7zNZN=w2880-h1330", 
+                                 "https://play-lh.googleusercontent.com/lP5dNhwGsG7s2H94lSGWFwta2MUqi9e65fOu-QFjwYSfV14fm0v0To2cc5k5ZAHhcw=w2880-h1330",
+                                 "https://play-lh.googleusercontent.com/9Cc76tcZ44E1cuCxmYLpqn-tAOQ7AU0GQyD1UxIPAx-erMzjPlA0WTjKKkB6trBoXQU=w2880-h1380", 
+                                 "https://play-lh.googleusercontent.com/zwy04dEEIX-0htckuxuPzH7niiauN6DZxydDoHMrubF4YvVy70osQdcNEERAi3nO=w2880-h1380"],
+  
+  "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
+  "Start_Showing_Ads" : true
+}
