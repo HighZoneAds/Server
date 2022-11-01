@@ -1,15 +1,29 @@
 {
   "Ad_Priority" : "1",
-  "Custom_Ad_Download_link" : [ "com.incredible.hulk.green.monster.superhero.games", 
-                               "com.hash.squid.game.red.light.green.light.survival.game", 
-                               "com.epicsimulatoe.impossible.crazy.carstunts.races.mega.ramps.game" ],
-  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/asJvMYQP5xRb-tKA5YGdgvJWNZYpvuXLaog3rmSZsviIr17ge041R2JHluynoKJg0Q=s180", 
-                           "https://play-lh.googleusercontent.com/YZIv7vZC-GtxF7vA_izHJ3hgYhzQSnY60-FYGs5EMws6UnukdtZgatEo2eCxuO3jH1k=s180", 
-                           "https://play-lh.googleusercontent.com/n5WKcHAvGuDZHXRmVNdfkl1CUdAzL8tPwGDJp9gRU4dEuniOGxXrpZ-ZAdKQpCpJ_w=s180" ],
+  "Custom_Ad_Download_link" : [ "com.epicsimulator.superhero.tricky.bike.stunts", 
+                               "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter", 
+                               "com.cyborg.impossible.car.stunts.mega.ramps.ultimate.races",
+                               "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter", 
+                               "com.cyborg.impossible.car.stunts.mega.ramps.ultimate.races" ],
   
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/j27zHmOZgegvHOXSeC-u7h0qPGtCe0NQnGdbBl_5wPjoX0QGWuoGs8tfpgNHGgEkkA=w720-h310", 
-                                 "https://play-lh.googleusercontent.com/stm8RfuuQqlFoinovT0jaHfG4v01YYZVnwziAZ-4F7xMrO2dFsEtWRs0j1DimzmGmA=w1920-h937", 
-                                 "https://play-lh.googleusercontent.com/imWz_hIERxbMX6dNMLeePwVnJIwqb5rOv0_EjMKVlR4QHg0z4U188U-npT4cjFbU5i4=w1536-h722" ],
+      "Custom_Icon_Ad_Download_link" : [ "com.epicsimulator.superhero.tricky.bike.stunts", 
+                               "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter", 
+                               "com.cyborg.impossible.car.stunts.mega.ramps.ultimate.races",
+                               "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter", 
+                               "com.cyborg.impossible.car.stunts.mega.ramps.ultimate.races" ],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/yPU5eWg4BUHw9J0g1-pBVdiTTu-bBf0atuT2LmmjXz_nVaY3opKf9RkMngyGUDub7l4V=s180", 
+                           "https://play-lh.googleusercontent.com/OFTJIZPepEP446U--xBqp3naQm8RNLBkpDNVOm7iqgrBg_tpWI9Cuo1NPc-4qkubu2oO=s180", 
+                           "https://play-lh.googleusercontent.com/n5WKcHAvGuDZHXRmVNdfkl1CUdAzL8tPwGDJp9gRU4dEuniOGxXrpZ-ZAdKQpCpJ_w=s180",
+                           "https://play-lh.googleusercontent.com/OFTJIZPepEP446U--xBqp3naQm8RNLBkpDNVOm7iqgrBg_tpWI9Cuo1NPc-4qkubu2oO=s180", 
+                           "https://play-lh.googleusercontent.com/n5WKcHAvGuDZHXRmVNdfkl1CUdAzL8tPwGDJp9gRU4dEuniOGxXrpZ-ZAdKQpCpJ_w=s180"],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/Hb1WcTmOP_TTMLdDb6sR0d8NAOzGJ22hh_CdPTjBcyUvlavMBDTIt-mCH2dpS0GBKR5o=w1920-h969", 
+                                 "https://play-lh.googleusercontent.com/HI8O5-oOzyfrQlBEw6zTNvFn9fDB_sM3kof8tFki7fvYJLwO7cQrTViCAoIc1cX6gD4=w375-h220", 
+                                 "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h937",
+                                "https://play-lh.googleusercontent.com/HI8O5-oOzyfrQlBEw6zTNvFn9fDB_sM3kof8tFki7fvYJLwO7cQrTViCAoIc1cX6gD4=w375-h220", 
+                                 "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h937"],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
-  "Start_Showing_Ads" : true
+  "Start_Showing_Ads" : true,
+  "Hide_Ads" : false
 }
