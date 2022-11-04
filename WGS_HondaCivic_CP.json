@@ -1,10 +1,10 @@
 {
   "Ad_Priority" : "1",
-  "Custom_Ad_Download_link" : [ "com.fgs.ramp.car.stunt.car.racing.games", 
-                               "com.fgs.real.cruise.ship.driving.simulator.games", 
-                               "com.fgs.city.coach.bus.simulator.bus.driving.games",
-                              "com.fgs.ramp.car.stunt.car.racing.games", 
-                               "com.fgs.real.cruise.ship.driving.simulator.games"],
+  "Custom_Ad_Download_link" : [ "com.wgs.gt.car.mega.ramp.stunts.race", 
+                               "com.wgs.offroad.suvjeep.driving.games.car.games", 
+                               "com.wgs.animal.transport.games.truck.simulator.games",
+                              "com.wgs.gt.car.mega.ramp.stunts.race", 
+                               "com.wgs.offroad.suvjeep.driving.games.car.games"],
   
     "Custom_Icon_Ad_Download_link" : [ "com.fgs.ramp.car.stunt.car.racing.games", 
                                "com.fgs.real.cruise.ship.driving.simulator.games", 
@@ -19,11 +19,11 @@
                            "https://play-lh.googleusercontent.com/YSMP_4Mescd0svjuZpDC5lR3yXF-dmhY8WRAYoR-_mx4Mb4jlxAOIz-EhrmaT1KPmRoo=w240-h480"
                           ],
   
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/cSsVBCy7Kbz9ZD9o4pso5HdVU5WVj8O1A6sq-saumOCA71hTPLcJPWB1U99QVu1rrXg=w2560-h1440", 
-                                 "https://play-lh.googleusercontent.com/atEGWNps3NqFdYZCI0wUYrU8h3O2FGZ7T--3BpwkBXr_E6hihWbSmBpzogOasBGSMw=w2560-h1440", 
-                                 "https://play-lh.googleusercontent.com/bhToCwemVHfpOrFkCH6E_9jUNSTjxADiKsUCLZAI96wooLbjOh1nrapiHXs1HoAk8rzf=w2560-h1440",
-                                 "https://play-lh.googleusercontent.com/cSsVBCy7Kbz9ZD9o4pso5HdVU5WVj8O1A6sq-saumOCA71hTPLcJPWB1U99QVu1rrXg=w2560-h1440", 
-                                 "https://play-lh.googleusercontent.com/atEGWNps3NqFdYZCI0wUYrU8h3O2FGZ7T--3BpwkBXr_E6hihWbSmBpzogOasBGSMw=w2560-h1440"],
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/AOc2b_IOXwaqOZz74N9ciCei91x-hfHtTCGNnD2rIsiei_qNSEwhuyFGSYDnHNTm088=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/glkPNXwvB7qLzrRpHyQirEeySaGEofr7OW2UT_wmwRWlvvbkJMdDnyjs1SaGizQP7w=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/CaT1ys9LOXtbdW5STgaY_XMYMu7LvP-7Jl6dg400Sr2fCIgFeEKsMcsmANsjmCVdsusw=w526-h296",
+                                 "https://play-lh.googleusercontent.com/AOc2b_IOXwaqOZz74N9ciCei91x-hfHtTCGNnD2rIsiei_qNSEwhuyFGSYDnHNTm088=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/glkPNXwvB7qLzrRpHyQirEeySaGEofr7OW2UT_wmwRWlvvbkJMdDnyjs1SaGizQP7w=w526-h296"],
   
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
