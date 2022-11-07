@@ -1,10 +1,10 @@
 {
   "Ad_Priority" : "1",
   "Custom_Ad_Download_link" : [ "com.wgs.gt.car.mega.ramp.stunts.race", 
-                               "com.wgs.offroad.suvjeep.driving.games.car.games", 
-                               "com.wgs.animal.transport.games.truck.simulator.games",
+                               "com.fgs.offroad.oil.tanker.truck.simulator", 
+                               "com.fgs.offroad.oil.tanker.truck.simulator",
                               "com.wgs.gt.car.mega.ramp.stunts.race", 
-                               "com.wgs.offroad.suvjeep.driving.games.car.games"],
+                               "com.fgs.offroad.oil.tanker.truck.simulator"],
   
     "Custom_Icon_Ad_Download_link" : [ "com.fgs.ramp.car.stunt.car.racing.games", 
                                "com.fgs.real.cruise.ship.driving.simulator.games", 
