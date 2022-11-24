@@ -1,11 +1,11 @@
 {
   "Ad_Priority" : "1",
-  "Custom_Ad_Download_link" : [ "com.alpha.spider.rope.hero.man.games", 
-                               "com.fgs.formula.car.stunts.track.racing.games", 
-                               "com.alpha.spider.rope.hero.man.games",
-                               "com.epic.simulator.games.multi.limo.robot.transformation.games",
-                               "com.incredible.hulk.green.monster.superhero.games"
-                              ],
+  "Custom_Ad_Download_link" : [ "com.alpha.robot.jet.transform.games", 
+                               "com.alpha.iron.rope.man.hero.gangster.games", 
+                               "com.alpha.robot.jet.transform.games",
+                              "com.alpha.iron.rope.man.hero.gangster.games", 
+                               "com.alpha.robot.jet.transform.games"],
+  
     "Custom_Icon_Ad_Download_link" : [ "com.fgs.formula.car.stunts.track.racing.games", 
                                "com.game.genie.ultimate.real.boxing.game.fighting.games", 
                                "com.game.genie.iron.rope.hero.superhero.crime.battle.city",
@@ -19,11 +19,11 @@
                            "https://play-lh.googleusercontent.com/mHznQNykVsIjzW2Wnly5SKkGYIfeYkufzJWo0T_h03k1O7BYGp5MDXUR8UOPzKfLJIM=s180"
                           ],
   
-  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/s7C31HIs_zmUVeuxMedN3L-TO0PCcYVbsIeLw45cxnXzMLbY3rQLS2P693L8nzM7zNZN=w1920-h937", 
-                                 "https://play-lh.googleusercontent.com/lh1IHNBfS2QmkHfJKcQtCzEVWVETsu4TKdFALkJ7vbX8ZNJRB2lIkW2Hp1-Uyw7IpUo=w1920-h937", 
-                                 "https://play-lh.googleusercontent.com/s6Mfxzj3XOowJQ-HNOjvomTnHJBGo5uxWtt28zYYgqkTTshUo-ex_zM44rmclRMgWb8=w1920-h937" ,
-                                "https://play-lh.googleusercontent.com/eBMl__gQ4cMSt9CAk9YWjBv85GqsoNXn2x_pKZ_3fNJZNy5QWMNXQTRZ8zU4KlnTC6E=w1920-h937",
-                                "https://play-lh.googleusercontent.com/42zA3vJLQ2dOsRDswvKa9IYOzELlAmZQ1_GYO9L1Zlick_NsEuTWfrSTNArpiJ_Z_bQ=w720-h310"
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/222h2qlDD75NYysSLb2X5Huj1SEQXL0DXwzeEG92_T6jV-ESCvfjo5qIbN1FAhgUL30=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/MY1x5L9wZm_x6E8mcW9BnW4FQ9rxaDouaOPRBOqpz0tjEQsnUugutQWFgOpnYW4GIpHR=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/mS91vMLPyCLCzMl_vJ7hEtmuek_J0rva4OsiQvu_SMF9NTBZsvfq8y3aj4BuB5_Q9iw=w526-h296",
+                                 "https://play-lh.googleusercontent.com/71pamQT1dO8t-1_k1dwWcy1XojcuO-JKPWPN5vQeLTj3dClSb0IkOK3f_J-BD_EIIjM=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/B_Z6DdmTGZMG5y0CaEM03MvhLOcGRPNvX5-1OEbhlbgJdRVfUDNaI663QfV_c8XY7qg=w526-h296"],
                                 ],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true
