@@ -23,5 +23,9 @@
                                  "https://play-lh.googleusercontent.com/oDiUD14Lj2liWFdnLIeLfFLcqqjmP5vZKlGnBehKHdVWkRJRpn3SZFV-9ER7es8lmg=w1920-h937"],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true,
-  "Hide_Ads" : false
+  "Hide_Ads" : false,
+  "showCP" : true,
+  "doubleBanner" : true,
+  "hideInterstitials" : false,
+  "interstitial_Flow" : 0
 }
