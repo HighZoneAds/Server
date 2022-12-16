@@ -28,5 +28,5 @@
   "showCP" : true,
   "doubleBanner" : true,
   "hideInterstitials" : false,
-  "interstitial_Flow" : 0
+  "interstitial_Flow" : 1
 }
