@@ -28,5 +28,6 @@
   "showCP" : true,
   "doubleBanner" : true,
   "hideInterstitials" : false,
-  "interstitial_Flow" : 1
+  "interstitial_Flow" : 1,
+  "showAppOpen" : true
 }
