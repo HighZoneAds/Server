@@ -1,9 +1,9 @@
 {
   "Ad_Priority" : "1",
   "Custom_Ad_Download_link" : [ "com.alpha.spider.rope.hero.man.games", 
-                               "com.alpha.spider.rope.hero.man.games", 
+                               "com.zgg.robot.transformation.game", 
                                "com.alpha.spider.rope.hero.man.games",
-                               "com.alpha.spider.rope.hero.man.games", 
+                               "com.zgg.robot.transformation.game", 
                                "com.alpha.spider.rope.hero.man.games" ],  
   
       "Custom_Icon_Ad_Download_link" : [ "com.incredible.hulk.green.monster.superhero.games", 
@@ -19,9 +19,9 @@
                            "https://play-lh.googleusercontent.com/1SnnSnNGb-qESR3npDUYXi5PyVXgkl_pfFzdC--aaRf_MA_Vgit-2k_0iOeu9M69Alc=w240-h480"],
   
   "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/oeZLDKNfR1wOlRdC4MkuFaRn7VlGdr4uH0Z1KRohCjYmz_RBfviwlncZlP6aQF24wg=w526-h296", 
-                                 "https://play-lh.googleusercontent.com/MN7-y08TnjExZOM58Qbb7uV3qBbWzXQcSVJ5tikmm-MhniMoHIivfln7zvGHjy6GpIU=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296", 
                                  "https://play-lh.googleusercontent.com/ejPkLiK4v7DPMSndo_ZQ--niL_MNuAE7jB-FikigiSlePu0XxMkwRPnURc6h4cUzD4Q=w526-h296",
-                                "https://play-lh.googleusercontent.com/Yb7QH2ZFE-2ZmxWibbk9r5Nn9xfuR3CzrwsZ46G0U9e9r6amrVXHY3R55se5GcSx0A=w526-h296", 
+                                "https://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296", 
                                  "https://play-lh.googleusercontent.com/jHd5e7IN6ls54YgZxyOYbvKFA3AdK0Aoq_ZbXAp3MbkfnAQqjIicyG2bhSBK6newyw=w526-h296"],
  
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
