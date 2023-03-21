@@ -1,0 +1,29 @@
+{
+  "Ad_Priority" : "0",
+  "Custom_Ad_Download_link" : [ "com.alpha.robot.jet.transform.games", 
+                               "com.tcg.robot.games.animal.robot.transformer.games", 
+                               "com.alpha.robot.jet.transform.games",
+                              "com.tcg.robot.games.animal.robot.transformer.games", 
+                               "com.zgg.robot.transformation.game"],
+  
+    "Custom_Icon_Ad_Download_link" : [ "com.tcg.robot.games.animal.robot.transformer.games", 
+                               "com.game.genie.ultimate.real.boxing.game.fighting.games", 
+                               "com.game.genie.iron.rope.hero.superhero.crime.battle.city",
+                              "com.real.fps.gun.shooting.games.team.death.match.tdm.counter.terrorist.cover.shooter", 
+                               "com.tcg.rope.hero.city.gangster.games.vegas.crime.simulator"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/NpwmwvrBL3QZz1nXjrXbf-wePb8d-hRcBiyWZrc9j7dkkADN1GWhECcS5cqrlNNv3bq3=w240-h480", 
+                           "https://play-lh.googleusercontent.com/UAjciPdbwpNggzuJ_Wm3kcrl1CiuVoeJadDjUZfk_F-ukCWX3REaP3Nk4N0Bz0kB2GF7=w240-h480", 
+                           "https://play-lh.googleusercontent.com/nM3X1JwsM1Jq0IpgzoVp2yWPYdo-2f4NFDTxKf5jHM5aAm0s15lmEp1nuIo4V0no9ypG=w240-h480",
+                          "https://play-lh.googleusercontent.com/vqDx3RwtBBy81Rb1Og47OesCiUBkt1zj6wCXuVQ7198-_c1rLBHZJWBc0HVTCQojBErM=w240-h480",
+                           "https://play-lh.googleusercontent.com/1SnnSnNGb-qESR3npDUYXi5PyVXgkl_pfFzdC--aaRf_MA_Vgit-2k_0iOeu9M69Alc=w240-h480"
+                          ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/222h2qlDD75NYysSLb2X5Huj1SEQXL0DXwzeEG92_T6jV-ESCvfjo5qIbN1FAhgUL30=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/bdnsnWiBnPNNJ3IvN6FTRlVpeCFyLLHo_yEDhstJan_ZOMw8JektzHPt-a-Nq7eYvk3c=w2560-h1440", 
+                                 "https://play-lh.googleusercontent.com/mS91vMLPyCLCzMl_vJ7hEtmuek_J0rva4OsiQvu_SMF9NTBZsvfq8y3aj4BuB5_Q9iw=w526-h296",
+                                 "https://play-lh.googleusercontent.com/bdnsnWiBnPNNJ3IvN6FTRlVpeCFyLLHo_yEDhstJan_ZOMw8JektzHPt-a-Nq7eYvk3c=w2560-h1440", 
+                                 "https://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296"],
+  "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
+  "Start_Showing_Ads" : true
+}
