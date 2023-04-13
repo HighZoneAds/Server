@@ -29,6 +29,6 @@
   "doubleBanner" : false,
   "hideInterstitials" : false,
   "interstitial_Flow" : 0,
-  "showAppOpen" : false,
+  "showAppOpen" : true,
   "init_Open" : 0
 }
