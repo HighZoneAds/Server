@@ -7,10 +7,10 @@
                                "com.hash.bat.hero.game"],
   
     "Custom_Icon_Ad_Download_link" : [ "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
-                               "com.alpha.spider.rope.hero.man.games", 
-                               "com.incredible.hulk.green.monster.superhero.games",
+                               "com.zgg.robot.transformation.game", 
+                               "com.zgg.robot.transformation.game",
                               "com.hash.santa.spider.rope.hero.vice.city.superhero.games", 
-                               "com.alpha.spider.rope.hero.man.games"],
+                               "com.zgg.robot.transformation.game"],
   
   "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/jhLqwkXMNjRmRc9uAbqTyMtpWzsSoY614FF9egfz2Th9A2tqxUzhwSB2LYCsAmiSRg=s180", 
                            "https://play-lh.googleusercontent.com/mU_To0YQyMQqXRsrE38BNVSUBADcWPCFLauJ0fslkFuovxtH77jWt8gpK9JsQIT5zA=s360", 
@@ -21,7 +21,7 @@
   "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/ClEJ9I990kyujTPkgXKalTWLiZ8hHziRjmOHvMb5sdozshQKygvxTrehPtoIEHmzDiw=w2560-h1440", 
                                  "https://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296", 
                                  "https://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296",
-                                 "hhttps://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/UtS260Gak2yfqJ99gLxAlvX037KWdRnZnwbLpsmeYNEAD4IVKVsGxDYBkxtxXjIlbg=w526-h296", 
                                  "https://play-lh.googleusercontent.com/cSo1RtoFhlSI9JNRJuXSPI2q0jTfo97WhzwsvO56TOY1JOdA2oY0v5Wt6HZ3u6XYai0=w526-h296"],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true,
