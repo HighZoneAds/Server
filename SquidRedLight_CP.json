@@ -1,5 +1,6 @@
 {
   "Ad_Priority" : "1",
+  "TransformationRewardAd" : "1",
   "Custom_Ad_Download_link" : [ "com.hash.bat.hero.game", 
                                "com.zgg.robot.transformation.game", 
                                "com.zgg.robot.transformation.game",
@@ -27,7 +28,6 @@
   "Start_Showing_Ads" : true,
   "showCP" : true,
   "doubleBanner" : false,
-  "TransformationRewardAd" : false,
   "hideInterstitials" : false,
   "interstitial_Flow" : 0,
   "showAppOpen" : false
