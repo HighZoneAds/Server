@@ -27,6 +27,7 @@
   "Start_Showing_Ads" : true,
   "showCP" : true,
   "doubleBanner" : false,
+  "TransformationRewardAd" : false,
   "hideInterstitials" : false,
   "interstitial_Flow" : 0,
   "showAppOpen" : false
