@@ -25,7 +25,10 @@
                                  "https://play-lh.googleusercontent.com/U4KvaYQYcmFpE8Jz-q5NqLMlVEDnBi6QXw-rxG_Ffv50W-QgMJ5LoqzwQv_it5t_cUE=w526-h296", 
                                  "https://play-lh.googleusercontent.com/UTyAg_l_rPdNnnK9JYWwKo1EwfoO1bHa_DqsSwdmIdbXyP09YzY7hujjraEYb2GoUh4=w526-h296"],
                                 
-  "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
-  "Start_Showing_Ads" : true
+ "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
+  "Start_Showing_Ads" : true,
   "showCP" : true,
+  "doubleBanner" : false,
+  "hideInterstitials" : false,
+  "interstitial_Flow" : 1
 }
