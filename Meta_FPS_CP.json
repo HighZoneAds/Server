@@ -1,0 +1,30 @@
+{
+  "Ad_Priority" : "1",
+  "Custom_Ad_Download_link" : [ "com.meta.grau.brazilian2", 
+                               "com.meta.grau.brazilian2", 
+                               "com.meta.grau.brazilian2",
+                              "com.meta.grau.brazilian2", 
+                               "com.meta.grau.brazilian2"],
+  
+    "Custom_Icon_Ad_Download_link" : [ "com.meta.grau.brazilian2", 
+                               "com.meta.grau.brazilian2", 
+                               "com.meta.grau.brazilian2",
+                              "com.meta.grau.brazilian2", 
+                               "com.meta.grau.brazilian2"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/fyAJtWTuBIYNzlGjNaHviZ4UKjlLqHB9wX71bg8Xb-y-ItdEtml2nWUUXN5QaouqlJk=w256-h256", 
+                           "https://play-lh.googleusercontent.com/fyAJtWTuBIYNzlGjNaHviZ4UKjlLqHB9wX71bg8Xb-y-ItdEtml2nWUUXN5QaouqlJk=w256-h256", 
+                           "https://play-lh.googleusercontent.com/fyAJtWTuBIYNzlGjNaHviZ4UKjlLqHB9wX71bg8Xb-y-ItdEtml2nWUUXN5QaouqlJk=w256-h256",
+                          "https://play-lh.googleusercontent.com/fyAJtWTuBIYNzlGjNaHviZ4UKjlLqHB9wX71bg8Xb-y-ItdEtml2nWUUXN5QaouqlJk=w256-h256",
+                           "https://play-lh.googleusercontent.com/fyAJtWTuBIYNzlGjNaHviZ4UKjlLqHB9wX71bg8Xb-y-ItdEtml2nWUUXN5QaouqlJk=w256-h256"
+                          ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/0IozXKU8Zz7JzxhtIOO7H6W79yhcfK3BsNx6Li2UxDGDo5yAht6DVNkpyQ6hxlHniQI=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/0IozXKU8Zz7JzxhtIOO7H6W79yhcfK3BsNx6Li2UxDGDo5yAht6DVNkpyQ6hxlHniQI=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/0IozXKU8Zz7JzxhtIOO7H6W79yhcfK3BsNx6Li2UxDGDo5yAht6DVNkpyQ6hxlHniQI=w526-h296",
+                                 "https://play-lh.googleusercontent.com/0IozXKU8Zz7JzxhtIOO7H6W79yhcfK3BsNx6Li2UxDGDo5yAht6DVNkpyQ6hxlHniQI=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/0IozXKU8Zz7JzxhtIOO7H6W79yhcfK3BsNx6Li2UxDGDo5yAht6DVNkpyQ6hxlHniQI=w526-h296"],
+  
+  "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
+  "Start_Showing_Ads" : false
+}
