@@ -1,0 +1,33 @@
+{
+  "Ad_Priority" : "1",
+  "Custom_Ad_Download_link" : [ "com.scary.fps.shooting.game.horror.games", 
+                               "com.scary.fps.shooting.game.horror.games", 
+                               "com.scary.fps.shooting.game.horror.games",
+                              "com.zgg.robot.transformation.game", 
+                               "com.scary.fps.shooting.game.horror.games"],
+  
+    "Custom_Icon_Ad_Download_link" : [ "com.scary.fps.shooting.game.horror.games", 
+                               "com.scary.fps.shooting.game.horror.games", 
+                               "com.scary.fps.shooting.game.horror.games",
+                              "com.scary.fps.shooting.game.horror.games", 
+                               "com.scary.fps.shooting.game.horror.games"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/fHWd6ZJOkGM6j4rm87ABz0QEJzsnRUbx6mfIdb-eDHTC764S_kE584r2UE1-qIeoHw8=w256-h256", 
+                           "https://play-lh.googleusercontent.com/fHWd6ZJOkGM6j4rm87ABz0QEJzsnRUbx6mfIdb-eDHTC764S_kE584r2UE1-qIeoHw8=w256-h256", 
+                           "https://play-lh.googleusercontent.com/fHWd6ZJOkGM6j4rm87ABz0QEJzsnRUbx6mfIdb-eDHTC764S_kE584r2UE1-qIeoHw8=w256-h256",
+                           "https://play-lh.googleusercontent.com/fHWd6ZJOkGM6j4rm87ABz0QEJzsnRUbx6mfIdb-eDHTC764S_kE584r2UE1-qIeoHw8=w256-h256", 
+                           "https://play-lh.googleusercontent.com/fHWd6ZJOkGM6j4rm87ABz0QEJzsnRUbx6mfIdb-eDHTC764S_kE584r2UE1-qIeoHw8=w256-h256" ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/4-Ngk0geUUAv02l3fDlqCQpI_B_bnwI20upIovNiqjw30hkoyUwU4zJsrj79h1sBpNM=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/4-Ngk0geUUAv02l3fDlqCQpI_B_bnwI20upIovNiqjw30hkoyUwU4zJsrj79h1sBpNM=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/4-Ngk0geUUAv02l3fDlqCQpI_B_bnwI20upIovNiqjw30hkoyUwU4zJsrj79h1sBpNM=w526-h296",
+                                 "https://play-lh.googleusercontent.com/4-Ngk0geUUAv02l3fDlqCQpI_B_bnwI20upIovNiqjw30hkoyUwU4zJsrj79h1sBpNM=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/4-Ngk0geUUAv02l3fDlqCQpI_B_bnwI20upIovNiqjw30hkoyUwU4zJsrj79h1sBpNM=w526-h296"],
+  "Indetifier_ID" : "com.meta.hero.man.game",
+  "Start_Showing_Ads" : true,
+  "showCP" : true,
+  "doubleBanner" : false,
+  "hideInterstitials" : false,
+  "interstitial_Flow" : 0,
+  "showAppOpen" : false
+}
