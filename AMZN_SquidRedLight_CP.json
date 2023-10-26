@@ -27,7 +27,7 @@
                                  "https://play-lh.googleusercontent.com/UTyAg_l_rPdNnnK9JYWwKo1EwfoO1bHa_DqsSwdmIdbXyP09YzY7hujjraEYb2GoUh4=w526-h296"],
   
   "Indetifier_ID" : "com.hash.squid.game.red.light.green.light.survival.game",
-  "Start_Showing_Ads" : false,
+  "Start_Showing_Ads" : true,
   "showCP" : false,
   "doubleBanner" : true,
   "hideInterstitials" : false,
