@@ -1,0 +1,34 @@
+{
+  "Ad_Priority" : "1",
+  "Custom_Ad_Download_link" : [ "B0CT8TM39W", 
+                               "B0CL5LR4N8", 
+                               "B0CKZCBG5X",
+                              "B0CLVHSXMK", 
+                               "B0CTHMNK6Q"],
+  
+    "Custom_Icon_Ad_Download_link" : [ "B0CT8TM39W", 
+                               "B0CL5LR4N8", 
+                               "B0CKZCBG5X",
+                              "B0CLVHSXMK", 
+                               "B0CTHMNK6Q"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/cJ3Cvr1NkgDQrFOUi8iaAJV0I1JS53Ox2_K_TYY2Vz3wRmQqY9iEJDbplisMjW1JHA=s256", 
+                           "https://play-lh.googleusercontent.com/XRlCpj22PFJuFK43QcE3u5RxmoNUed7YO_zG-6F1PCqjrBIIURbTBDvTgLVVIk5pNeY=w256-h256", 
+                           "https://play-lh.googleusercontent.com/-ll-c4R4hM0oEUq5qQEVsr0njqJ07TiEEGTky2whLp6M5ymR43n8SEgftPpsQJ7ETRAO=w256-h256",
+                          "https://m.media-amazon.com/images/I/818fRZC-TRL.png",
+                           "https://play-lh.googleusercontent.com/rPE8U-WNSe7uq0Sd-b8UylAs5S6rEVjEjoOAN0WCr20lb4Ej0oL9xjlzIKeRq_YjoITg=w256-h256"
+                          ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/8DDj07hiPNbnET4tZCc3lQrJ9orO8lwEKnhO8g9lbM-W19TQ_6s-y6TcoYfhQ6dFWUaL=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/RUqyGlYT68zb7f6ItIRTNcia3Lbv-vd5z67K9n9c4aB5aTWfVHpNhYcueswqWZbG1wVs=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/42zA3vJLQ2dOsRDswvKa9IYOzELlAmZQ1_GYO9L1Zlick_NsEuTWfrSTNArpiJ_Z_bQ=w526-h296",
+                                 "https://m.media-amazon.com/images/I/81bDMyvG6jL.png", 
+                                 "https://play-lh.googleusercontent.com/iohG1YObiEDgUg81Eni8uyy6mQaxZjDm3QNe7Um8qzh101sNby9K1mgLX5hVTk8tFQ=w526-h296"],
+  
+  "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
+  "Start_Showing_Ads" : true,
+  "showCP" : true,
+  "doubleBanner" : true,
+  "hideInterstitials" : false,
+  "interstitial_Flow" : 1
+}
