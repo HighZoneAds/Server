@@ -28,7 +28,7 @@
   "Start_Showing_Ads" : false,
   "showCP" : false,
   "doubleBanner" : false,
-  "hideInterstitials" : false,
+  "hideInterstitials" : true,
   "interstitial_Flow" : 1,
   "showAppOpen" : true,
   "init_Open" : 0,
