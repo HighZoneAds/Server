@@ -31,5 +31,5 @@
   "hideInterstitials" : false,
   "interstitial_Flow" : 1,
   "AdsFrequency" : 180,
-  "showAppOpen" : false
+  "showAppOpen" : true
 }
