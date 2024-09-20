@@ -31,5 +31,5 @@
   "showAppOpen" : true,
   "AdsFrequency" : 60,
   "canShowBanner" : true,
-  "showIAPPanel" : true
+  "showIAPPanel" : false
 }
