@@ -29,7 +29,7 @@
   "doubleBanner" : true,
   "hideInterstitials" : false,
   "interstitial_Flow" : 1,
-  "showAppOpen" : false,
+  "showAppOpen" : true,
   "init_Open" : 0,
   "AdsFrequency" : 60
 }
