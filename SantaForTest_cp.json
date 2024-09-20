@@ -30,5 +30,6 @@
   "hideInterstitials" : false,
   "showAppOpen" : true,
   "AdsFrequency" : 60,
-  "canShowBanner" : true
+  "canShowBanner" : true,
+  "showIAPPanel" : true
 }
