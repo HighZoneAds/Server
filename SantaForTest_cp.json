@@ -32,5 +32,5 @@
   "AdsFrequency" : 60,
   "canShowBanner" : true,
   "showIAPPanel" : true,
-  "showIAPPanelMenu" : true
+  "showIAPMenu" : true
 }
