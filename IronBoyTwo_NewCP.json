@@ -34,5 +34,5 @@
   "showIAPPanel" : true,
   "showIAPMenu" : true,
   "AdsFrequency" : 80,
-  "ModesSetup" : 1
+  "ModesSetup" : 0
 }
