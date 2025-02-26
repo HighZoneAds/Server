@@ -28,7 +28,7 @@
   "showCP" : false,
   "doubleBanner" : true,
   "hideInterstitials" : false,
-  "showAppOpen" : false,
+  "showAppOpen" : true,
   "AdsFrequency" : 60,
   "canShowBanner" : true,
   "showIAPPanel" : true,
