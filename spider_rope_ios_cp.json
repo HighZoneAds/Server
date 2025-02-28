@@ -30,7 +30,7 @@
   "hideInterstitials" : false,
   "showAppOpen" : false,
   "AdsFrequency" : 60,
-  "canShowBanner" : false,
+  "canShowBanner" : true,
   "showIAPPanel" : false,
   "showIAPMenu" : false,
   "naughtyAmerica" : false
