@@ -33,5 +33,5 @@
   "canShowBanner" : true,
   "showIAPPanel" : false,
   "showIAPMenu" : false,
-  "naughtyAmerica" : true
+  "naughtyAmerica" : false
 }
