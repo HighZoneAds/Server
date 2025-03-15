@@ -32,7 +32,7 @@
   "AdsFrequency" : 45,
   "canShowBanner" : true,
   "showIAPPanel" : false,
-  "showIAPMenu" : false,
+  "showIAPMenu" : true,
   "naughtyAmerica" : false,
   "mrecAd" : false
 }
