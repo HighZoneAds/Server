@@ -34,5 +34,5 @@
   "showIAPPanel" : false,
   "showIAPMenu" : true,
   "naughtyAmerica" : false,
-  "mrecAd" : false
+  "mrecAd" : true
 }
