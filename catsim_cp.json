@@ -29,10 +29,10 @@
   "doubleBanner" : true,
   "hideInterstitials" : false,
   "showAppOpen" : true,
-  "AdsFrequency" : 35,
+  "AdsFrequency" : 40,
   "canShowBanner" : true,
   "showIAPPanel" : false,
   "showIAPMenu" : true,
-  "naughtyAmerica" : false,
-  "mrecAd" : true
+  "naughtyAmerica" : true,
+  "mrecAd" : false
 }
