@@ -33,6 +33,6 @@
   "canShowBanner" : true,
   "showIAPPanel" : false,
   "showIAPMenu" : true,
-  "naughtyAmerica" : false,
-  "mrecAd" : true
+  "naughtyAmerica" : true,
+  "mrecAd" : false
 }
