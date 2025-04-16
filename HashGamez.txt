@@ -84,10 +84,27 @@ If you choose to use Amazon to finalize and pay for your order, you will provide
  
 Third party advertising solutions providers:
 We show third party advertisements (Admob, Chartboost, etc.) within our apps. These ads and services are not under the control of Hash Gamez who are therefore not responsible for the availability or content of such external sites or services.
- 
+
+ByteBrew:
+privacy policy: https://docs.bytebrew.io/BBSettings/privacypolicy
+
+Applovin:
+privacy Policy: https://www.applovin.com/privacy/
+
+Mintegral: 
+privacy policy: https://www.mintegral.com/en/privacy
+
+Unity Ads:
+privacy policy: https://unity.com/legal/privacy-policy
+
+Game Analytics:
+privacy policy: https://www.gameanalytics.com/trust
+
 Game Center feature and interaction with third party social networks or platforms:
-Hash Gamez may allow for social integration with certain third party social networks or platforms (Apple Game Center, Google Play Games and Game Center, Amazon GameCircle, Facebook, Twitter etc.). If you use an app in connection to a social networking site, The Hash Gamezcannot control it. If you enable this integration with such social networks and platforms, your use of the Game Center Feature is subject to the applicable third party social networks or platform’s Terms of Use and Privacy Policies.
- 
+Hash Gamez may allow for social integration with certain third party social networks or platforms (Apple Game Center, Google Play Games and Game Center, Amazon GameCircle, Facebook, Twitter etc.). If you use an app in connection to a social networking site, The Hash Gamez cannot control it. If you enable this integration with such social networks and platforms, your use of the Game Center Feature is subject to the applicable third party social networks or platform’s Terms of Use and Privacy Policies.
+
+
+
 You should read third party services’ Terms of Use and Privacy Policies to understand how they treat your information.
  
 Security
