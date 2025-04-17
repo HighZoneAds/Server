@@ -31,7 +31,7 @@
   "showAppOpen" : true,
   "AdsFrequency" : 60,
   "canShowBanner" : true,
-  "showIAPPanel" : false,
-  "showIAPMenu" : false,
+  "showIAPPanel" : true,
+  "showIAPMenu" : true,
   "naughtyAmerica" : false
 }
