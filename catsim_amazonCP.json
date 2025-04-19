@@ -31,7 +31,7 @@
   "showAppOpen" : true,
   "AdsFrequency" : 35,
   "canShowBanner" : true,
-  "showIAPPanel" : false,
+  "showIAPPanel" : true,
   "showIAPMenu" : true,
   "naughtyAmerica" : true,
   "mrecAd" : true
