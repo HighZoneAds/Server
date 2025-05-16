@@ -29,7 +29,7 @@
   "doubleBanner" : true,
   "hideInterstitials" : false,
   "showAppOpen" : true,
-  "AdsFrequency" : 50,
+  "AdsFrequency" : 40,
   "canShowBanner" : true,
   "showIAPPanel" : true,
   "showIAPMenu" : true,
