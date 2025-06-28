@@ -36,5 +36,5 @@
   "showIAPMenu" : true,
   "naughtyAmerica" : true,
   "mrecAd" : false,
-  "extraNaughty" : false
+  "extraNaughty" : true
 }
