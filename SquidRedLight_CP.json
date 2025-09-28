@@ -28,9 +28,9 @@
   
   "Indetifier_ID" : "com.hash.squid.game.red.light.green.light.survival.game",
   "Start_Showing_Ads" : false,
-  "showCP" : true,
-  "doubleBanner" : true,
-  "hideInterstitials" : false,
+  "showCP" : false,
+  "doubleBanner" : false,
+  "hideInterstitials" : true,
   "interstitial_Flow" : 0,
   "showAppOpen" : false
 }
