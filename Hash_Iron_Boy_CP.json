@@ -27,10 +27,10 @@
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true,
   "showCP" : false,
-  "doubleBanner" : true,
+  "doubleBanner" : false,
   "hideInterstitials" : true,
   "interstitial_Flow" : 1,
   "showAppOpen" : true,
   "init_Open" : 0,
-  "AdsFrequency" : 80
+  "AdsFrequency" : 90
 }
