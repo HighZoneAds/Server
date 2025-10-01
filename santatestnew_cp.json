@@ -33,5 +33,6 @@
   "canShowBanner" : true,
   "showIAPPanel" : true,
   "showIAPMenu" : true,
-  "naughtyAmerica" : false
+  "naughtyAmerica" : false,
+  "interCooldown" : 30
 }
