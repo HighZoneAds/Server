@@ -25,14 +25,14 @@
                                  "https://play-lh.googleusercontent.com/VPTa8kRl9zTFhffi7BMCYm319TYXjNoaCHqFKPvob2hRuCdTSmtFS0QMmug0nJSzIB7d=w5120-h2880"],
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true,
-  "showCP" : false,
-  "doubleBanner" : false,
+  "showCP" : true,
+  "doubleBanner" : true,
   "hideInterstitials" : false,
   "showAppOpen" : true,
-  "AdsFrequency" : 180,
+  "AdsFrequency" : 30,
   "canShowBanner" : true,
-  "showIAPPanel" : false,
-  "showIAPMenu" : false,
-  "naughtyAmerica" : false,
-  "interCooldown" : 30
+  "showIAPPanel" : true,
+  "showIAPMenu" : true,
+  "naughtyAmerica" : true,
+  "interCooldown" : 15
 }
