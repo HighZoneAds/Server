@@ -30,6 +30,6 @@
   "doubleBanner" : false,
   "hideInterstitials" : true,
   "interstitial_Flow" : 1,
-  "AdsFrequency" : 120,
+  "AdsFrequency" : 600,
   "showAppOpen" : true
 }
