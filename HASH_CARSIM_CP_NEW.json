@@ -27,12 +27,12 @@
   "Start_Showing_Ads" : true,
   "showCP" : false,
   "doubleBanner" : false,
-  "hideInterstitials" : false,
+  "hideInterstitials" : true,
   "showAppOpen" : true,
   "AdsFrequency" : 90,
   "canShowBanner" : true,
-  "showIAPPanel" : true,
-  "showIAPMenu" : true,
+  "showIAPPanel" : false,
+  "showIAPMenu" : false,
   "naughtyAmerica" : false,
   "mRecAd" : true
 }
