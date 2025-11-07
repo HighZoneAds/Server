@@ -36,6 +36,6 @@
   "canShowBanner" : true,
   "showIAPPanel" : true,
   "showIAPMenu" : true,
-  "naughtyAmerica" : true,
+  "naughtyAmerica" : false,
   "interCooldown" : 10
 }
