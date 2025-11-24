@@ -34,5 +34,5 @@
   "showIAPPanel" : true,
   "showIAPMenu" : true,
   "naughtyAmerica" : true,
-  "interCooldown" : 10
+  "interCooldown" : 5
 }
