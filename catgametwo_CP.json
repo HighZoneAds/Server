@@ -34,7 +34,7 @@
   "canShowBanner" : true,
   "showIAPPanel" : true,
   "showIAPMenu" : true,
-  "naughtyAmerica" : true,
+  "naughtyAmerica" : false,
   "mrecAd" : false,
-  "extraNaughty" : false
+  "extraNaughty" : true
 }
