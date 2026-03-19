@@ -28,11 +28,11 @@
   "showCP" : false,
   "doubleBanner" : true,
   "hideInterstitials" : false,
-  "showAppOpen" : false,
+  "showAppOpen" : true,
   "AdsFrequency" : 30,
   "canShowBanner" : true,
   "showIAPPanel" : false,
   "showIAPMenu" : false,
   "naughtyAmerica" : false,
-  "interCooldown" : 30
+  "interCooldown" : 10
 }
