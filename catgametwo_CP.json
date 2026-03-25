@@ -27,15 +27,15 @@
   "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
   "Start_Showing_Ads" : true,
   "showCP" : false,
-  "doubleBanner" : true,
-  "hideInterstitials" : false,
+  "doubleBanner" : false,
+  "hideInterstitials" : true,
   "showAppOpen" : true,
-  "AdsFrequency" : 30,
+  "AdsFrequency" : 180,
   "canShowBanner" : true,
-  "showIAPPanel" : true,
-  "showIAPMenu" : true,
-  "naughtyAmerica" : true,
+  "showIAPPanel" : false,
+  "showIAPMenu" : false,
+  "naughtyAmerica" : false,
   "mrecAd" : false,
-  "extraNaughty" : true,
-  "interCooldown" : 5
+  "extraNaughty" : false,
+  "interCooldown" : 10
 }
