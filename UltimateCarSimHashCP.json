@@ -34,5 +34,6 @@
   "showIAPPanel" : true,
   "showIAPMenu" : true,
   "naughtyAmerica" : false,
-  "mRecAd" : false
+  "mRecAd" : false,
+  "interCooldown" : 5
 }
