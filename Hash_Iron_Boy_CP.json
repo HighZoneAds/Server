@@ -29,8 +29,8 @@
   "showCP" : false,
   "doubleBanner" : false,
   "hideInterstitials" : true,
-  "interstitial_Flow" : 1,
-  "showAppOpen" : true,
+  "interstitial_Flow" : 0,
+  "showAppOpen" : false,
   "init_Open" : 0,
   "AdsFrequency" : 90
 }
