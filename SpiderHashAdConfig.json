@@ -38,7 +38,7 @@
     "allowInterstitials": true,
     "allowInterstitial2": true,
     "allowInterstitial3": true,
-    "interstitialCooldownSeconds": 5.0,
+    "interstitialCooldownSeconds": 10.0,
     "allowRewarded": true,
     "allowRewardedInterstitials": false,
     "allowAppOpen": true,
