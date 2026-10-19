@@ -31,7 +31,7 @@
         "bannerRefreshSeconds": 10,
         "mrecRefreshSeconds": 10
     },
-    "isAdsEnabled": true,
+    "isAdsEnabled": false,
     "useTestAds": false,
     "allowTimerAd": false,
     "timerAdIntervalSeconds": 30.0,
